@@ -1,4 +1,4 @@
-﻿# LocalLecture Application — Development Status
+# LocalLecture Application — Development Status
 
 *Last updated: 2026-09-29*
 
@@ -88,7 +88,7 @@
 - [x] 26 passing tests across unit, security, and integration suites (100% pass rate).
 - [x] Strict TypeScript compilation passes for both frontend and backend (`npm run build`).
 - [x] Comprehensive documentation suite in `docs/` (`ARCHITECTURE.md`, `SECURITY.md`, `PRIVACY.md`, `LOCAL_AI.md`, `SETUP.md`) and root `README.md`.
-- [x] Private GitHub repository sync executed to `https://github.com/aravr-llm/local-lecture-study-suite`.
+- [x] GitHub repository sync executed and published as public: `https://github.com/aravr-llm/local-lecture-study-suite`.
 
 ---
 
